@@ -1,0 +1,10 @@
+Salut Bruno,
+ 
+J’y suis (enfin) arrivé.
+Il y avait systématiquement une troncature à 70 caractères sur la description des modules.
+ 
+J’ai modifié un fichier du thème « adaptable » (ci-joint) pour que cette troncature soit de 100 caractères lorsqu’il y a une image et 190 caractères lorsqu’il n’y en a pas.
+ 
+Sans troncature du tout, le texte déborde de la « box » s’il est trop long.
+ 
+C’est en ligne, je te laisse voir ce que ça donne. Tu me diras.
